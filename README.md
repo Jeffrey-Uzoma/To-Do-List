@@ -1,0 +1,1 @@
+This is a simple TO-DO list that every frontend developer needs to have on their resume. It is a list that helps an individual keep track of things that he/she does and remove the some unnecessary task or task that has beeo completed.
